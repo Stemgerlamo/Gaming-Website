@@ -12,5 +12,8 @@
   "description": "",
   "devDependencies": {
     "tailwindcss": "^3.4.17"
+  },
+  "dependencies": {
+    "@fontsource/poppins": "^5.1.1"
   }
 }
